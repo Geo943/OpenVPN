@@ -18,6 +18,8 @@ contraseña: ***********
 usermod -aG sudo ronal
 usermod -aG sudo geo
 
+![vps](https://user-images.githubusercontent.com/99605908/192432411-1b18e537-ce11-4c97-a873-676bf3404390.png)
+![VPS-access](https://user-images.githubusercontent.com/99605908/192432446-266a5cd5-15bf-483e-a3ab-f66efd9cef0b.png)
 
 ------------------------------------------
 
@@ -46,7 +48,7 @@ Instalación y configuración Nginx
 	sudo systemctl restart nginx (reiniciar nginx)
 	sudo nginx -t (para probar nginx)
 	
-	
+![nginx](https://user-images.githubusercontent.com/99605908/192432462-c80965fd-9b70-433b-b486-6040b981c0f1.png)
 --------------------------------------------------------------------------------------
 
 Configuración OpenVPN
@@ -66,7 +68,7 @@ Configuración FTP para transferencia de archivos
 
 apt-get install vsftpd
 ps -ef | grep vsftpd
+-------------------------------------------------------------------------------------
 	
 
---------------------------------------------------------------------------------------
 
