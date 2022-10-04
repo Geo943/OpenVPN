@@ -2,7 +2,7 @@ Configuración de VPS
 
 public ip: 216.238.68.70
 user: root
-pass: *************
+pass: **************
 
 SO: Ubuntuserver 20.04
 
