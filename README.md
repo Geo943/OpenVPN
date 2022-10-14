@@ -92,7 +92,7 @@ Instalación y configuración postgresql
 
 192.168.1.24  -> 10.8.0.5 -> BackEnd API                    -> Ubuntu Server 20.04
 
-192.168.1.22  -> 10.8.0.6 -> BD - PostgreSQL                -> Ubuntu Server 20.04
+192.168.1.22  -> 10.8.0.4 -> BD - PostgreSQL                -> Ubuntu Server 20.04
 
 192.168.1.14  -> 10.8.0.2 -> Cliente Linux
 
